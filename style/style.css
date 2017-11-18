@@ -1,0 +1,24 @@
+body.inha{
+	
+	background-image:url(../images/5.jpg);
+	background-position:center;
+	background-size:220px;
+	background-repeat:no-repeat;
+}
+p{
+	font-size:15pt;
+	color:gray;
+	font-family:cursive;
+}
+h1,h2{
+	text-align:center; 
+	border-style:outset;
+	font-family:fantasy;
+}
+p.a1{
+	color:black;
+	font-size:medium;
+}
+ul{
+	font-family:cursive;
+}
